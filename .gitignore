@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Archives
+*.xcarchive
